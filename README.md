@@ -8,6 +8,5 @@
 
 2.  Importing and Cleaning Data with Python https://www.datacamp.com/tracks/importing-cleaning-data-with-python
 
-**Statement of Accomplishment Certificates for the Tracks as well as the Courses under each Track were copied to the BIOF 309 GitHub repository.**
-
+**Statement of Accomplishment Certificates for the Tracks as well as the Courses under each Track were copied to the BIOF 309 GitHub repository** 
 [BIOF309/datacamp-certificates-MarieGallagher](https://github.com/BIOF309/datacamp-certificates-MarieGallagher)
